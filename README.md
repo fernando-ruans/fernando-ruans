@@ -2,30 +2,22 @@
 <h3 align="center">Desenvolvedor full-stack, focado em produto, performance e experiências offline-first</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=447FF7&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+software+útil;Full-stack+%7C+Desktop+%7C+Backend+%7C+IA;Construindo+produtos+com+arquitetura+s%C3%B3lida+e+boa+UX" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fernando-ruans&theme=algolia&no-frame=true&no-bg=true&margin-w=8" alt="trophies" />
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="separator" />
 </p>
 
 ## 💫 Sobre mim
 
-Sou desenvolvedor com foco em construir sistemas completos, de ponta a ponta, com atenção a arquitetura, usabilidade e manutenção.
+Sou desenvolvedor com foco em construir sistemas completos, de ponta a ponta, com atenção à arquitetura, usabilidade e manutenção.
 
-Atualmente trabalho com um ecossistema que vai muito além de uma única stack:
-- **Frontend moderno**
-- **Backend robusto**
-- **Aplicações desktop**
-- **Integrações com IA**
-- **Ferramentas offline-first**
-- **Automação e produtividade**
-- **APIs e bancos de dados**
-- **Experiências multiplataforma**
+Trabalho com um ecossistema que vai muito além de uma única stack:
+- frontend moderno
+- backend robusto
+- aplicações desktop
+- integrações com IA
+- ferramentas offline-first
+- automação e produtividade
+- APIs e bancos de dados
+- experiências multiplataforma
 
 Gosto de criar software útil, limpo e escalável, com foco em resolver problemas reais.
 
@@ -62,7 +54,7 @@ Gosto de criar software útil, limpo e escalável, com foco em resolver problema
 
 ### Desktop, DevOps e ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,neovim,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
 </p>
 
 ### IA, automação e produtividade
@@ -83,9 +75,7 @@ Gosto de criar software útil, limpo e escalável, com foco em resolver problema
 - **CipherSync** — gerenciador de senhas open-source para Windows e Linux.
 - **AI-ART-STUDIO** — projeto voltado a criação de experiências com IA e geração de conteúdo.
 - **RPG** — experiência interativa com foco em gameplay e frontend moderno.
-- **FORJA** — interface visual simples e direta para demonstração e apresentação.
 - **Geekameleon** — projeto web com stack moderna e foco em experiência visual.
-- **Fusi0n** — projeto JavaScript com abordagem mais clássica e experimental.
 
 ---
 
@@ -97,22 +87,6 @@ Gosto de criar software útil, limpo e escalável, com foco em resolver problema
 - ferramentas de diagnóstico e utilitários
 - sistemas com IA aplicada ao fluxo do usuário
 - APIs e backends bem estruturados
-
----
-
-## 📈 GitHub em movimento
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernando-ruans&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernando-ruans&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-ruans&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
