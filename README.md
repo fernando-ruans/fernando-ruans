@@ -68,14 +68,11 @@ Gosto de criar software útil, limpo e escalável, com foco em resolver problema
 
 ## 🚀 Projetos públicos em destaque
 
-- **GrowMaster** — solução completa para gestão inteligente de cultivo.
+
 - **Lingua** — app full-stack de aprendizado de inglês com inteligência artificial.
 - **NetSuite** — toolkit de diagnóstico de rede para desktop.
 - **AxisDoc** — kit de ferramentas de escritório para desktop.
 - **CipherSync** — gerenciador de senhas open-source para Windows e Linux.
-- **AI-ART-STUDIO** — projeto voltado a criação de experiências com IA e geração de conteúdo.
-- **RPG** — experiência interativa com foco em gameplay e frontend moderno.
-- **Geekameleon** — projeto web com stack moderna e foco em experiência visual.
 
 ---
 
